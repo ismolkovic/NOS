@@ -1,0 +1,18 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+	Crypted file
+
+Method:
+	AES
+
+Key length:
+	0100
+
+File name:
+	aes_ulaz.txt
+
+Data:
+	2V3jwJEo5lbgWJUdbvZGQ93lYusU42aryY9F1z8BUvK6m2m9Gn6AI6PHvUpl
+	BGccZ9NtSFH3M6JrEOKoaxXFJg==
+
+---END OS2 CRYPTO DATA---
